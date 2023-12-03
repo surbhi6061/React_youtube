@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React_Youtube_App/static/css/main.c27a1fad.css",
-    "main.js": "/React_Youtube_App/static/js/main.ba54c227.js",
-    "index.html": "/React_Youtube_App/index.html",
-    "main.c27a1fad.css.map": "/React_Youtube_App/static/css/main.c27a1fad.css.map",
-    "main.ba54c227.js.map": "/React_Youtube_App/static/js/main.ba54c227.js.map"
+    "main.css": "/React_Youtube/static/css/main.c27a1fad.css",
+    "main.js": "/React_Youtube/static/js/main.ba54c227.js",
+    "index.html": "/React_Youtube/index.html",
+    "main.c27a1fad.css.map": "/React_Youtube/static/css/main.c27a1fad.css.map",
+    "main.ba54c227.js.map": "/React_Youtube/static/js/main.ba54c227.js.map"
   },
   "entrypoints": [
     "static/css/main.c27a1fad.css",
